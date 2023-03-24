@@ -1,19 +1,24 @@
 body {
-  background-color: light blue;
+  background-color: #f7d794; /* A warm, sunny yellow */
+  font-family: 'Roboto', sans-serif; /* A clean, modern font */
 }
 
 h3 {
-  color: Blue;
-  font-size: 16px;
-  font-family: Arial, Helvetica, sans-serif;
+  color: #1abc9c; /* A refreshing shade of green */
+  font-size: 28px; /* Bold and attention-grabbing */
+  font-weight: bold; /* Extra emphasis */
+  text-shadow: 2px 2px 5px rgba(0,0,0,0.2); /* A subtle shadow effect */
 }
 
 .footer{
-  background-color: green;
-  color: red;
-  padding-left: 20px;
-
+  background-color: #34495e; /* A dark, moody blue */
+  color: #f1c40f; /* A bright, eye-catching yellow */
+  padding: 20px; /* Even padding on all sides */
+  border-top: 1px solid #f1c40f; /* A thin yellow border on top */
 }
 
 h4 {
-  color: green;
+  color: #e74c3c; /* A bold, attention-grabbing red */
+  text-transform: uppercase; /* All caps for added impact */
+  margin-bottom: 20px; /* Extra space below each heading */
+  border-bottom: 2px solid #1abc9c; /* A thick green underline */
